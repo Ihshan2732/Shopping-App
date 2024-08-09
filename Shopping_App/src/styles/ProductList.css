@@ -1,0 +1,14 @@
+/* Styles for ProductList component */
+.product-item {
+  border: 1px solid #ddd; /* Light border around product items */
+  padding: 16px; /* Space inside product items */
+  margin-bottom: 16px; /* Space below product items */
+  list-style: none; /* Removes default list styling */
+}
+
+.product-image {
+  max-width: 100%; /* Ensures image fits within its container */
+  height: auto; /* Maintains aspect ratio */
+  display: block; /* Makes the image a block-level element */
+  margin-bottom: 8px; /* Space below the image */
+}

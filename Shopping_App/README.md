@@ -1,0 +1,3 @@
+# React + Vite
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This template is suitable for projects that need to quickly develop React applications with hot module replacement (HMR) and have linting rules configured. It is also suitable for projects that need to use Babel for Fast Refresh. However, if your project needs to use SWC for Fast Refresh or if you have a large project with many files, you might want to consider using a different setup.
